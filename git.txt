@@ -1,0 +1,16 @@
+/**git commands
+
+
+git init
+git add <filename>
+git commit -m "some string"
+git commit <files with their extension>
+git status
+git diff --cached
+git diff --pretty
+
+git clone https://github.com/hegdenagaraj4/training.git 
+git remote -v
+
+
+
