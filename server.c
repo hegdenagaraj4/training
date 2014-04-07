@@ -84,9 +84,6 @@ int main()
 	{
 		log_err("SERVER COULD NOT BE CREATED");
 	}
-
-
-
 	return 0;
 }
 
